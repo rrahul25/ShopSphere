@@ -1,4 +1,4 @@
-ShopSphere
+# ShopSphere
 
 ShopSphere is a user-friendly e-commerce interface built with React, designed to provide a seamless shopping experience. The app features a clean and responsive layout for browsing products across different categories: Men, Women, and Kids.
 
